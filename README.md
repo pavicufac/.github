@@ -12,7 +12,7 @@ Este repositório também é responsável pela página de perfil da organizaçã
 
 ## Sobre
 
-Somos uma iniciativa público-privada dedicada à Pesquisa Aplicada em Visão e Inteligência Computacional. Nosso objetivo é promover o desenvolvimento tecnológico e científico, além de contribuir para a formação de alunos e profissionais qualificados. Saiba mais sobre nós [em nosso site](https://www.ufac.br/pavic).
+Somos uma iniciativa público-privada dedicada à Pesquisa Aplicada em Visão e Inteligência Computacional. Nosso objetivo é promover o desenvolvimento tecnológico e científico, além de contribuir para a formação de alunos e profissionais qualificados. Saiba mais sobre nós em [nosso site](https://www.ufac.br/pavic).
 
 ## Redes Sociais
 
