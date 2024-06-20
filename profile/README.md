@@ -51,6 +51,11 @@ O Centro de Pesquisa Aplicada e Treinamento de Novas Tecnologias em Visão e Int
 - Flextronics da Amazônia Ltda
 - Fundação de Apoio e Desenvolvimento ao Ensino e Pesquisa e Extensão - FUNDAPE
 
+## Redes Sociais
+
+- [Instagram](https://www.instagram.com/pavicufac)
+- [Facebook](https://www.facebook.com/profile.php?id=100092298345613)
+
 ## Contatos
 
 Para mais informações, entre em contato com a equipe do projeto:
